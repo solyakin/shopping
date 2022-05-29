@@ -56,7 +56,7 @@ function addToCartHTML(){
             return `<div class="col-12 cart-items">
                     <div class="row">
                         <div class="col-4 image">
-                            <img src=${product.image} alt="">
+                            <img src=${product.image} alt="" class="product-image">
                         </div>
                         <div class="col-8 details">
                             <div class="name_cancel">
