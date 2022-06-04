@@ -1,0 +1,15 @@
+.body{
+    max-width: 1100px;
+    width: 100%;
+    margin: 10px auto;
+}
+.section-wrapper{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap : 25px;
+}
+.item img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+}

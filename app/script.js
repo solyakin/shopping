@@ -2,7 +2,7 @@ const allProducts = [
     {
         id : 1,
         name:"Baguette Diamond Bar Necklace",
-        price:650,
+        price:950,
         seller:"Swarovski crystals",
         image:"./images/product-images/bar-necklace-lg.jpeg",
         category:"necklace",
